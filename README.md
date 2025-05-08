@@ -1,4 +1,4 @@
-# Behavior Improvement Tracker
+# Self-Improvement Platform
 
 A modern web application built with React and TypeScript that helps users track and improve their behaviors through actionable items and progress monitoring.
 
